@@ -1,0 +1,91 @@
+=== LEAVE POLICY ===
+Annual Leave:
+- All full-time employees are entitled to 20 days of annual leave per year.
+- Leave must be applied at least 3 days in advance through the HR portal.
+- Unused leave can be carried forward up to a maximum of 10 days to the next year.
+- Leave encashment is allowed for up to 5 days at the end of the financial year.
+
+Sick Leave:
+- Employees are entitled to 12 days of sick leave per year.
+- Sick leave beyond 3 consecutive days requires a medical certificate.
+- Sick leave cannot be carried forward or encashed.
+
+Maternity Leave:
+- Female employees are entitled to 26 weeks of paid maternity leave.
+- Must be applied at least 4 weeks before the expected date of delivery.
+- Additional 4 weeks unpaid leave can be requested.
+
+Paternity Leave:
+- Male employees are entitled to 5 days of paid paternity leave.
+- Must be taken within 3 months of the child's birth.
+
+Emergency Leave:
+- Employees can apply for up to 3 days of emergency leave per year.
+- Emergency leave is for immediate family emergencies only.
+- Must be notified to manager within 2 hours of absence.
+
+=== WORK FROM HOME POLICY ===
+- Employees can work from home up to 2 days per week.
+- WFH must be approved by the direct manager at least 1 day in advance.
+- Employees must be available on all communication channels during WFH.
+- WFH is not applicable for employees in their probation period (first 3 months).
+- Internet allowance of INR 500 per month is provided for WFH employees.
+
+=== SALARY AND PAYROLL POLICY ===
+- Salaries are credited on the last working day of every month.
+- Salary slips are available on the HR portal by the 2nd of the following month.
+- Annual appraisals are conducted in April every year.
+- Performance bonuses are paid in May after appraisal completion.
+- Tax deductions follow the Indian Income Tax Act and are updated annually.
+- Reimbursement claims must be submitted within 30 days of the expense.
+
+=== ONBOARDING POLICY ===
+- New employees must complete onboarding within the first 2 weeks.
+- Documents required: Offer letter, ID proof, Address proof, Educational certificates, PAN card.
+- Laptop and system access are provided on Day 1.
+- A buddy is assigned to every new employee for the first 30 days.
+- Probation period is 3 months for all employees.
+
+=== RESIGNATION AND EXIT POLICY ===
+- Notice period is 60 days for all employees.
+- Employees must submit resignation through the HR portal.
+- Final settlement including PF, gratuity, and pending salary is processed within 45 days.
+- Exit interview is mandatory before the last working day.
+- Company assets must be returned before the full and final settlement.
+- Non-disclosure agreement must be signed during offboarding.
+
+=== PERFORMANCE REVIEW POLICY ===
+- Performance reviews are conducted twice a year: April and October.
+- Employees are rated on a 5-point scale: Outstanding, Exceeds Expectations, Meets Expectations, Needs Improvement, Unsatisfactory.
+- Ratings below Meets Expectations for 2 consecutive reviews may result in a Performance Improvement Plan (PIP).
+- Employees can raise performance disputes within 7 days of receiving the review.
+
+=== TRAVEL AND EXPENSE POLICY ===
+- Business travel must be pre-approved by the department head.
+- Domestic travel: Economy class for flights, AC 3-tier for trains.
+- International travel: Business class for flights above 6 hours.
+- Hotel allowance: INR 5000 per night for domestic, USD 150 per night for international.
+- All expense claims must be submitted with original receipts within 30 days.
+- Per diem for meals: INR 800 per day domestic, USD 50 per day international.
+
+=== HEALTH AND BENEFITS POLICY ===
+- All employees and their immediate family are covered under group health insurance.
+- Insurance coverage: INR 5 lakhs per family per year.
+- Pre-existing conditions are covered after 1 year of employment.
+- Term life insurance of INR 50 lakhs is provided at no cost.
+- Annual health checkup is provided free of cost for employees above 35 years.
+- Gym reimbursement of INR 1000 per month is available upon submission of receipts.
+
+=== ANTI-HARASSMENT POLICY ===
+- The company has zero tolerance for workplace harassment of any kind.
+- Employees can report harassment to the Internal Complaints Committee (ICC).
+- All complaints are investigated within 30 days.
+- Retaliation against complainants is strictly prohibited.
+- Anonymous reporting is available through the HR portal.
+
+=== TRAINING AND DEVELOPMENT POLICY ===
+- Each employee is entitled to INR 25,000 per year for training and certifications.
+- Training budget must be pre-approved by the department head.
+- Employees must share key learnings with the team after external trainings.
+- Internal training programs are free and available on the LMS portal.
+- Sponsored certifications require the employee to stay for at least 1 year post-completion.
