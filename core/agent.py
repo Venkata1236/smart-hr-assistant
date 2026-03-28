@@ -1,3 +1,14 @@
+"""
+🤖 HR Agent - LangGraph ReAct Agent Factory (v1.0 2026)
+======================================================
+LLM: GPT-4o-mini | Framework: LangGraph prebuilt.
+Tools: RAG + 4 action tools. Input via HumanMessage.
+Secrets: Streamlit/CLI unified key resolution.
+Author: Venkata Reddy (@Venkata1236)
+"""
+
+
+
 import os
 from langchain_openai import ChatOpenAI
 from langgraph.prebuilt import create_react_agent
