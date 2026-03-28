@@ -1,7 +1,6 @@
 from langchain.tools import tool
 from core.vector_store import load_vector_store
 
-
 def create_rag_tool():
     """
     Creates a RAG tool that searches HR policies in FAISS.
@@ -22,7 +21,7 @@ def create_rag_tool():
         Use this tool when the user asks about any HR policy or rule.
         """
         print(f"\n🔍 RAG Tool: Searching for '{query}'")
-        docs = retriever.get_relevant_documents(query)
+        docs = retriever.invoke(query)  # ← FIXED (was get_relevant_documents)
 
         if not docs:
             return "No relevant HR policy information found."
