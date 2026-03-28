@@ -1,3 +1,14 @@
+"""
+🔍 RAG Tool - FAISS Semantic Search for HR Policies (v1.0 2026)
+==============================================================
+Wraps FAISS retriever as a LangChain @tool.
+Uses .invoke() for LangChain 0.2+ compatibility.
+Returns top-4 policy chunks for agent context.
+Author: Venkata Reddy (@Venkata1236)
+"""
+
+
+
 from langchain.tools import tool
 from core.vector_store import load_vector_store
 
