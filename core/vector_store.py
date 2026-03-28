@@ -1,3 +1,14 @@
+"""
+📦 FAISS Vector Store - HR Policy Knowledge Base (v1.0 2026)
+==========================================================
+Builds/loads FAISS index from hr_policies.txt.
+Uses OpenAI embeddings + RecursiveCharacterTextSplitter.
+Auto-builds if index missing. LangChain 0.2+ compatible.
+Author: Venkata Reddy (@Venkata1236)
+"""
+
+
+
 import os
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
