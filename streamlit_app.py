@@ -1,3 +1,14 @@
+"""
+🌐 Smart HR Assistant - Streamlit UI (v1.0 2026)
+===============================================
+RAG + ReAct Agent hybrid chat interface.
+Features: Chat history, example buttons, tool expander.
+Deploy: Streamlit Cloud | LangGraph + FAISS powered.
+Author: Venkata Reddy (@Venkata1236)
+"""
+
+
+
 import streamlit as st
 import os
 from dotenv import load_dotenv
