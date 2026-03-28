@@ -1,3 +1,15 @@
+"""
+💻 Smart HR Assistant - CLI Interface (v1.0 2026)
+================================================
+Console mode: Type query → Agent responds.
+Supports: policy Q&A, leave, expenses, HR contact.
+Commands: 'quit' to exit | 'rebuild' to refresh FAISS.
+Author: Venkata Reddy (@Venkata1236)
+"""
+
+
+
+
 import os
 import sys
 from dotenv import load_dotenv
