@@ -1,3 +1,14 @@
+"""
+🛠️ HR Action Tools - LangChain @tool Functions (v1.0 2026)
+=========================================================
+4 tools: book_meeting, submit_leave, expense_claim, contact_hr.
+Each returns formatted confirmation with ticket/request ID.
+Used by LangGraph ReAct agent for action decisions.
+Author: Venkata Reddy (@Venkata1236)
+"""
+
+
+
 from langchain.tools import tool
 from datetime import datetime
 
