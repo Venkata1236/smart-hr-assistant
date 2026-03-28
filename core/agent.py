@@ -1,6 +1,8 @@
 import os
 from langchain_openai import ChatOpenAI
-from langgraph.prebuilt import create_react_agent  # ← FIXED IMPORT!
+from langgraph.prebuilt import create_react_agent 
+from langchain_core.prompts import PromptTemplate  
+from langchain.agents import AgentExecutor         
 from core.rag_tool import create_rag_tool
 from core.action_tools import (
     book_meeting_with_hr,
